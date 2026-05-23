@@ -1,2 +1,1 @@
-greeting = 'Hello World!'
-print(greeting)
+print("Hello, testing first GitHub commit!")
